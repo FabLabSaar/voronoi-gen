@@ -1,0 +1,11 @@
+[package]
+name = "voronoi-rust"
+version = "0.1.0"
+authors = ["Florian Fromm <flrn.frmm@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+noise = "0.6.0"
+rand = "0.7.2"
+voronoi = "0.1.4"
+svg = "0.6.0"
